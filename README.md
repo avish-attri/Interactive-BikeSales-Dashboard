@@ -10,6 +10,12 @@ The **Sales Dashboard** analyzes regional sales performance, product categories,
 
 ---
 
+## 🔗 Project Link
+
+👉 [View the Live Tableau Dashboard](https://public.tableau.com/app/profile/avish.attri/viz/BikeSalesDashboard_17525794968230/Dashboard1?publish=yes)  
+
+---
+
 ## 🔍 Key Features
 
 - 🌍 **State-wise Sales & Profit Visualization**
@@ -54,8 +60,4 @@ The **Sales Dashboard** analyzes regional sales performance, product categories,
 ---
 
 
-## 🔗 Project Link
 
-👉 [View the Live Tableau Dashboard](https://public.tableau.com/app/profile/avish.attri/viz/BikeSalesDashboard_17525794968230/Dashboard1?publish=yes)  
-
----
